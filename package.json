@@ -1,12 +1,12 @@
 {
-  "name": "aliyun-sdk",
-  "description": "Aliyun SDK for JavaScript",
+  "name": "waliyun-sdk",
+  "description": "wxcount Aliyun SDK for JavaScript",
   "version": "1.10.5",
   "author": {
-    "name": "chylvina",
-    "email": "chylvina@gmail.com"
+    "name": "suntoe",
+    "email": "suntoe@189.cn"
   },
-  "homepage": "https://github.com/aliyun-UED/aliyun-sdk-js.git",
+  "homepage": "https://github.com/suntoe/aliyun-sdk-js.git",
   "contributors": [],
   "devDependencies": {
     "coffee-script": "1.6.3",
@@ -49,10 +49,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:aliyun-UED/aliyun-sdk-js.git"
+    "url": "git@github.com:suntoe/aliyun-sdk-js.git"
   },
   "bugs": {
-    "url": "https://github.com/aliyun-UED/aliyun-sdk-js/issues",
+    "url": "https://github.com/suntoe/aliyun-sdk-js/issues",
     "mail": ""
   },
   "keywords": [],
